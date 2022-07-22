@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @ArvinHeinz
 - 👀 I’m interested in programming.
-- 🌱 I’m currently learning JAVA.
+- 🌱 I’m currently learning Python.
 - 💞️ I’m looking to collaborate on beginner projects.
 - 📫 How to reach me - here on GitHub.
 
